@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: A.A Perspective
 ---
 
 This is a blank Quartz installation.
