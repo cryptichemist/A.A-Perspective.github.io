@@ -23,37 +23,37 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+       header: "Schibsted Grotesk",
+       body: "Source Sans Pro",
+       code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+         light: "#faf8f8",
+         lightgray: "#e5e5e5",
+         gray: "#b8b8b8",
+         darkgray: "#4e4e4e",
+         dark: "#2b2b2b",
+         secondary: "#284b63",
+         tertiary: "#84a59d",
+         highlight: "rgba(143, 159, 169, 0.15)",
+         textHighlight: "#fff23688",
         },
         darkMode: {
-          lightgray: "#3b4252",
-          gray: "#4c566a",
-          darkgray: "#d8dee9",
-          dark: "#eceff4",
-          secondary: "#88c0d0",
-          tertiary: "#81a1c1",
-          highlight: "rgba(136, 192, 208, 0.1)",
-          textHighlight: "#a5261a75",
-}, 
+         lightgray: "#3b4252",
+         gray: "#4c566a",
+         darkgray: "#d8dee9",
+         dark: "#eceff4",
+         secondary: "#88c0d0",
+         tertiary: "#81a1c1",
+         highlight: "rgba(136, 192, 208, 0.1)",
+         textHighlight: "#a5261a75",
         },
       },
-    },
-  },
-  plugins: {
+    }
+  
+
+   plugins: {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
@@ -91,7 +91,7 @@ const config: QuartzConfig = {
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
-  },
+  }, 
 }
 
 export default config
