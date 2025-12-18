@@ -16,82 +16,81 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "cryptichemist.github.io/A.A-Perspective", 
+    baseUrl: "cryptichemist.github.io/A.A-Perspective",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-       header: "Schibsted Grotesk",
-       body: "Source Sans Pro",
-       code: "IBM Plex Mono",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-         light: "#faf8f8",
-         lightgray: "#e5e5e5",
-         gray: "#b8b8b8",
-         darkgray: "#4e4e4e",
-         dark: "#2b2b2b",
-         secondary: "#284b63",
-         tertiary: "#84a59d",
-         highlight: "rgba(143, 159, 169, 0.15)",
-         textHighlight: "#fff23688",
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
-         lightgray: "#3b4252",
-         gray: "#4c566a",
-         darkgray: "#d8dee9",
-         dark: "#eceff4",
-         secondary: "#88c0d0",
-         tertiary: "#81a1c1",
-         highlight: "rgba(136, 192, 208, 0.1)",
-         textHighlight: "#a5261a75",
+          light: "#2e3440", // Added missing background color
+          lightgray: "#3b4252",
+          gray: "#4c566a",
+          darkgray: "#d8dee9",
+          dark: "#eceff4",
+          secondary: "#88c0d0",
+          tertiary: "#81a1c1",
+          highlight: "rgba(136, 192, 208, 0.1)",
+          textHighlight: "#a5261a75",
         },
       },
-    }
-  
+    }, // Closed theme
+  }, // Closed configuration
+  plugins: {
+    transformers: [
+      Plugin.FrontMatter(),
+      Plugin.CreatedModifiedDate({
+        priority: ["frontmatter", "git", "filesystem"],
+      }),
+      Plugin.SyntaxHighlighting({
+        theme: {
+          light: "github-light",
+          dark: "github-dark",
+        },
+        keepBackground: false,
+      }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
+      Plugin.GitHubFlavoredMarkdown(),
+      Plugin.TableOfContents(),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.Description(),
+      Plugin.Latex({ renderEngine: "katex" }),
+    ],
+    filters: [Plugin.RemoveDrafts()],
+    emitters: [
+      Plugin.AliasRedirects(),
+      Plugin.ComponentResources(),
+      Plugin.ContentPage(),
+      Plugin.FolderPage(),
+      Plugin.TagPage(),
+      Plugin.ContentIndex({
+        enableSiteMap: true,
+        enableRSS: true,
+      }),
+      Plugin.Assets(),
+      Plugin.Static(),
+      Plugin.Favicon(),
+      Plugin.NotFoundPage(),
+      Plugin.CustomOgImages(),
+    ],
+  },
+}
 
-    plugins: {
-      transformers: [
-       Plugin.FrontMatter(),
-       Plugin.CreatedModifiedDate({
-         priority: ["frontmatter", "git", "filesystem"],
-       }),
-       Plugin.SyntaxHighlighting({
-         theme: {
-           light: "github-light",
-           dark: "github-dark",
-          },
-         keepBackground: false,
-        }),
-       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
-       Plugin.GitHubFlavoredMarkdown(),
-       Plugin.TableOfContents(),
-       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-       Plugin.Description(),
-       Plugin.Latex({ renderEngine: "katex" }),
-      ],
-     filters: [Plugin.RemoveDrafts()],
-     emitters: [
-       Plugin.AliasRedirects(),
-       Plugin.ComponentResources(),
-       Plugin.ContentPage(),
-       Plugin.FolderPage(),
-       Plugin.TagPage(),
-       Plugin.ContentIndex({
-         enableSiteMap: true,
-         enableRSS: true,
-        }),
-       Plugin.Assets(),
-       Plugin.Static(),
-       Plugin.Favicon(),
-       Plugin.NotFoundPage(),
-       // Comment out CustomOgImages to speed up build time
-       Plugin.CustomOgImages(),
-      ],
-    }, 
-  }
-} 
 export default config
