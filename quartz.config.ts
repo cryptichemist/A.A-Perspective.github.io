@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "cryptichemist.github.io/A.A-Perspective"
+    baseUrl: "cryptichemist.github.io/A.A-Perspective", 
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
