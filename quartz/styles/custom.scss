@@ -1,3 +1,12 @@
-@use "./base.scss";
+@use "./base.scss" as base;
+strong {
+    color: #c7b767;
+    font-weight: 700;
+}
+body {
+  line-height: 1.7; /* This increases the vertical space between every line of text */
+}
 
-// put your custom CSS here!
+p {
+  margin-bottom: 1.5em; /* This increases the gap specifically between paragraphs */
+}
