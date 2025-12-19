@@ -20,15 +20,14 @@ From **Philosophy** and **History** to **Wellness** and **Finance**. There is so
 
 A.A **Perspective** is going to be centered around weekly reviews and forecasts of impactful market news and geopolitical events. 
 
-Overtime this will turn into a interactive record of events. 
-Please explore and expand on everything. It is my intention to link definitions while keeping the surface report clear and concise. 
+Overtime this will turn into a interactive record.  Please explore and expand on everything. It is my intention to link definitions while keeping the surface report clear and concise. 
 I am going to do my best to have a report out before premarket on Sunday weekly.
 
 ---
 ## Index 
 
 > [!note] Index 
-> - [[Weekly Perspectives|Reports]] found here
+> - [[Reports|Reports]] found here
 > - [[Timeline]] found here 
 > - [[Archive]] found here 
 > 
@@ -52,6 +51,7 @@ I’m building this in the open to stay sharp for the **Abundant Acquisition** c
 > I am always open to feedback and new perspectives on the data. If you want to challenge a forecast, provide an insight, or inquire about becoming a member of the **Abundant Acquisition** community, contact me here: 
 > - **email** roanpeel.cameron@outlook.com 
 > - **discord** @ccrypt42 
+
 
 ---
 
