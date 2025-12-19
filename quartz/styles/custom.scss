@@ -13,3 +13,15 @@
     visibility: visible !important;
   }
 }
+// Restores professional spacing to the left sidebar
+.sidebar.left {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 2rem !important; // Adds breathing room between Search and Explorer
+  padding-top: 2rem !important;
+}
+
+// Ensures the Explorer doesn't overlap the Search bar
+.explorer {
+  margin-top: 1rem;
+}
