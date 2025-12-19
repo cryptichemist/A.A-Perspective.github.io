@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Inter",
-        code: "Fira Code",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#2e3440", // Added missing background color
+          light: "#2e3440ff", // Added missing background color
           lightgray: "#3b4252",
           gray: "#4c566a",
           darkgray: "#d8dee9",
           dark: "#eceff4",
-          secondary: "#88c0d0",
-          tertiary: "#81a1c1",
-          highlight: "rgba(136, 192, 208, 0.1)",
-          textHighlight: "#a5261a75",
+          secondary: "#ebcb8b",
+          tertiary: "#88c0d0",
+          highlight: "rgba(143, 188, 0.15)",
+          textHighlight: "#a32a1f75",
         },
       },
     }, // Closed theme
