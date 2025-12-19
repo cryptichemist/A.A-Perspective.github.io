@@ -1,1 +1,15 @@
 @use "./themes";
+
+// Force the grid to stay side-by-side on any screen wider than 800px
+@media all and (min-width: 800px) {
+  #quartz-body {
+    display: grid !important;
+    grid-template-columns: 320px auto 320px !important; // Forces the 3-column look
+    width: 100% !important;
+  }
+  
+  .sidebar {
+    display: flex !important;
+    visibility: visible !important;
+  }
+}
