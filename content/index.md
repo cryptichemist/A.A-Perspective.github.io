@@ -6,11 +6,16 @@ Author: Cam
 ---
 --- 
 ## Introduction
+
 ---
-##### In **Abundant Acquisition** we pride ourselves in being informed on the world around us. 
-##### We are building a **network** centered around topics than encourage self reflection and critical thinking.
-##### From **Philosophy** and **History** to **Wellness** and **Finance**. There is something for everyone. Our top priority is **you** leveraging your Intellectual Property as we believe that knowledge is the purest form of portable wealth.
+
+In **Abundant Acquisition** we pride ourselves in being informed on the world around us. 
+We are building a **network** centered around topics than encourage self reflection and critical thinking.
+
+From **Philosophy** and **History** to **Wellness** and **Finance**. There is something for everyone. Our top priority is **you** leveraging your Intellectual Property as we believe that knowledge is the purest form of portable wealth.
+
 --- 
+
 #### My aim with this project is to add to that knowledge base 
 
 A.A **Perspective** is going to be centered around weekly reviews and forecasts of impactful market news and geopolitical events. 
