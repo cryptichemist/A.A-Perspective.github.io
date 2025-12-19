@@ -1,27 +1,3 @@
 @use "./themes";
 
-// Force the grid to stay side-by-side on any screen wider than 800px
-@media all and (min-width: 800px) {
-  #quartz-body {
-    display: grid !important;
-    grid-template-columns: 320px auto 320px !important; // Forces the 3-column look
-    width: 100% !important;
-  }
-  
-  .sidebar {
-    display: flex !important;
-    visibility: visible !important;
-  }
-}
-// Restores professional spacing to the left sidebar
-.sidebar.left {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 2rem !important; // Adds breathing room between Search and Explorer
-  padding-top: 2rem !important;
-}
-
-// Ensures the Explorer doesn't overlap the Search bar
-.explorer {
-  margin-top: 1rem;
-}
+//for obsidian nord 
