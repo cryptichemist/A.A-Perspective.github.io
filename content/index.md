@@ -5,12 +5,17 @@ tags:
 Author: Cam
 ---
 --- 
-## **Introduction
+## Introduction
+
 ---
-##### In Abundant Acquisition** we pride ourselves in being informed on the world around us. 
-##### We are building a **network** centered around topics than encourage self reflection and critical thinking.
-##### From **Philosophy** and **History** to **Wellness** and **Finance**. There is something for everyone. Our top priority is **you** leveraging your Intellectual Property as we believe that knowledge is the purest form of portable wealth.
+
+In **Abundant Acquisition** we pride ourselves in being informed on the world around us. 
+We are building a **network** centered around topics than encourage self reflection and critical thinking.
+
+From **Philosophy** and **History** to **Wellness** and **Finance**. There is something for everyone. Our top priority is **you** leveraging your Intellectual Property as we believe that knowledge is the purest form of portable wealth.
+
 --- 
+
 #### My aim with this project is to add to that knowledge base 
 
 A.A **Perspective** is going to be centered around weekly reviews and forecasts of impactful market news and geopolitical events. 
@@ -20,7 +25,7 @@ Please explore and expand on everything. It is my intention to link definitions 
 I am going to do my best to have a report out before premarket on Sunday weekly.
 
 ---
-## **Index 
+## Index 
 
 > [!note] Index 
 > - [[Weekly Perspectives|Reports]] found here
@@ -34,7 +39,7 @@ I am going to do my best to have a report out before premarket on Sunday weekly.
 
 Publishing this weekly consensus is my commitment to accountability; it ensures I never get lazy with the data I process. Not everyone has the time to comb through global financial reports, my role here is to filter and curate that raw data so you can perform your own due diligence.
 
-The markets are a **machine of alignment**, fine-tuned to a specific frequency. Think of it like a radio station: you need the right information just to find the channel. Once you are tuned in, you must understand the language (the technicalities) to interpret the message. Through this project, I aim to give you some coordinates needed  to tune into that frequency.
+The markets are a **machine of alignment**, fine-tuned to a specific frequency. Think of it like a radio station: you need the right information just to find the channel. Once you are tuned in, you must understand the language (the technicalities) to interpret the message. Through this project, I aim to give you some coordinates needed to tune into that frequency.
 
 **Context** allows me to identify the dominant weight in the market, but **fluidity** allows me to sustain myself when the balance shifts. I use data to build a thesis, but I use discipline to abandon it the moment the facts change. The market is a constant force of opposing objectives; only when enough of them align do we see a trend.
 
