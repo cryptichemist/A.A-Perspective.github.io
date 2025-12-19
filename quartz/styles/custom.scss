@@ -1,3 +1,30 @@
-@use "./base.scss";
+//Obsidian nord theme for quartz
+// Nord Sandy Yellow for Main Headings and Bold Text
+h1, .bold, strong {
+  color: #ebcb8b !important; // Nord 13 - Sandy Yellow
+}
 
-// put your custom CSS here!
+// Nord Purple for the "My aim with this project" section
+// Targeting H2 or a specific class for that muted purple look
+h2 {
+  color: #b48ead !important; // Nord 15 - Muted Purple
+  font-weight: 500;
+}
+
+// Nord Blue/Teal for secondary emphasis or smaller headers
+h3, h4 {
+  color: #88c0d0 !important; // Nord 8 - Frost Blue
+}
+
+// Styling for the body text to make it pop against the dark background
+body, p {
+  color: #d8dee9 !important; // Nord 4 - Crisp Snow White
+  line-height: 1.6;
+}
+
+// Horizontal Rule styling to match the subtle lines in your screenshot
+hr {
+  border: none;
+  border-top: 1px solid #4c566a; // Nord 3 - Polar Night tone
+  margin: 2rem 0;
+}
