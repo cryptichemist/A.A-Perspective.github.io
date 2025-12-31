@@ -8,23 +8,35 @@ title: Reports
 
 > [!note]
 > 
-> Here on this page you will find the latest weekly outlook and a log of all previous texts.
+> Here on this page you will find the latest Weekly Outlook and a log of all previous texts.
 > 
 > As I plan to keep expanding this overtime, I will add any other reports I decide to share to this section.
 > > 
 
 ---
-## Weekly Perspectives 
-
----
+## Monthly Overview
 
 > [!info] Latest!
-> This weeks report: [[W51.2025]]
-> #Notes: Final full trading week of the year
+> This months overview [[JAN.2026]] 
+> 
+> A Consensus of the coming events of the month and a detailed overview of the events of late 2025 to help you plan your trading schedule. 
+> #Notes The first month of the year. With many unravelling narratives to be aware of. 
+
+---
+## Weekly Perspectives 
+
+> [!info] Latest!
+> This weeks report: [[W01.2026]]
+> #Notes: First week of the year, let the cards fall. Overall it is a scheduled to be a somewhat quiet week with some red folder USD releases midweek.
 >     
 
 ---
 ## 2026 Reports
+
+#### Index:
+
+- [[W01.2026]]
+- [[JAN.2026]]
 
 ---
 ## 2025 Reports 
