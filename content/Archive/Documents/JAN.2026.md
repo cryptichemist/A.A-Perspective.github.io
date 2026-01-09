@@ -111,17 +111,17 @@ The doctrine prioritizes "lethality" above all other metrics. This is not merely
 
 The remit of the Department of War has expanded inward, blurring the traditional lines of Posse Comitatus. Under "Operation Southern Spear," initiated following a National Emergency declaration in January 2025, the military has been deployed to the southern border to support Customs and Border Protection (CBP) in aggressive enforcement operations.
 
-This militarization extends to interior enforcement. The administration has categorized drug cartels as "narco-terrorists," creating a legal framework for the use of military assets in interdiction operations at the border and potentially extraterritorially in Mexico and Venezuela. These policies hace ignited widespread civil unrest within the United States. Magor urban centres have witnessed sustained protest against mass deportation raids, with activists employing novel tactics such as the "ICE scraper buy-in" a coordinated effort to disrupt retail chains complicit in enforcement operations. The federal response has been heavy handed with reported clashes against demonstrators, further polarizing the domestic social fabric.
+This militarization extends to interior enforcement. The administration has categorized drug cartels as "narco-terrorists," creating a legal framework for the use of military assets in interdiction operations at the border and potentially extraterritorially in Mexico and Venezuela. These policies have ignited widespread civil unrest within the United States. Major urban centers have witnessed sustained protest against mass deportation raids, with activists employing novel tactics such as the "ICE scraper buy-in" a coordinated effort to disrupt retail chains complicit in enforcement operations. The federal response has been heavy handed with reported clashes against demonstrators, further polarizing the domestic social fabric.
 
 ### Dept Precipice and Monetary reset Hypothesis. 
 
-Underpinning the aggressive posture of the "Department of War," is a fiscal foundation that is increasingly brittle. In October 2025, the US national debt surpassed $38 trillion, pushing the dept-to-GDP ratio to approximately 99%. More critically, the cost of servicing this debt has exploded; annual interest payments have breached $1.1 trillion,
+Underpinning the aggressive posture of the "Department of War," is a fiscal foundation that is increasingly brittle. In October 2025, the US national debt surpassed 38 trillion. Pushing the dept to GDP ratio to approximately 99%. More critically, the cost of servicing this debt has exploded; annual interest payments have breached 1.1 trillion,
 consuming a larger share of the federal budget than the national defense.
 
 ### July 4th, 2026, "Gold Bond" Proposal
 
 Faced with the dual pressures of a burgeoning debt crisis and the concerted de-dollarization efforts of the [[BRICS]], the administration is reportedly exploring radical monetary experimentation. Dr. Judy Shelton, a key economic advisor, has advanced a proposal for the issuance of "Gold Backed Treasury Bonds."
-The mechanics of this proposal are revolutionary: The treasury would issue a 50-year bonds that are convertible to physical gold at maturity. To facilitate this, the Treasury's gold holdings - currently valued in the books at a rate of $42.22 per ounce - would be revalued at market prices, which currently exceed $4000.
+The mechanics of this proposal are revolutionary: The treasury would issue a 50-year bonds that are convertible to physical gold at maturity. To facilitate this, the Treasury's gold holdings currently valued in the books at a rate of US 42.22 per ounce - would be revalued at market prices, which currently exceed US 4000.
 This revaluation would instantly monetize the massive disparity between the book and paper value, theoretically creating a fiscal buffer to stabilize the dollar. The target date for this announcement is rumored to be July 4th 2026.
 
 ---
