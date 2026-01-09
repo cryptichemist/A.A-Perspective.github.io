@@ -20,14 +20,14 @@ title: Reports
 > This months overview [[JAN.2026]] 
 > 
 > A Consensus of the coming events of the month and a detailed overview of the events of late 2025 to help you plan your trading schedule. 
-> #Notes The first month of the year. With many unravelling narratives to be aware of. 
+> The first month of the year. With many unravelling narratives to be aware of. 
 
 ---
 ## Weekly Perspectives 
 
 > [!info] Latest!
 > This weeks report: [[W01.2026]]
-> #Notes: First week of the year, let the cards fall. Overall it is a scheduled to be a somewhat quiet week with some red folder USD releases midweek.
+> First week of the year, let the cards fall. Overall it is a scheduled to be a somewhat quiet week with some red folder USD releases midweek.
 >     
 
 ---
@@ -46,6 +46,6 @@ I am leaving this section here because I intend to leave some notes and referenc
 ----
 #### Index:
 
--  [[W51/2025]] 
+-  [[W51.2025]] example outlook
 
 ---
