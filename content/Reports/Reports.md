@@ -26,8 +26,9 @@ title: Reports
 ## Weekly Perspectives 
 
 > [!info] Latest!
-> This weeks report: [[W01.2026]]
-> First week of the year, let the cards fall. Overall it is a scheduled to be a somewhat quiet week with some red folder USD releases midweek.
+> This weeks report: [[W02.2026]]
+>
+> Second week of the year. With red folder news releases on most days. More importantly, many global conflicts are escalating. From protests in Iran to disaccord within NATO over Greenland. 
 >     
 
 ---
@@ -35,6 +36,7 @@ title: Reports
 
 #### Index:
 
+- [[W02.2026]]
 - [[W01.2026]]
 - [[JAN.2026]]
 

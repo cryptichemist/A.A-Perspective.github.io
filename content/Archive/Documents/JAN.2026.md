@@ -269,7 +269,7 @@ As the world enters 2026, the rules of the post-WWII order have been effectively
 
 - **For the US:** Alliances are no longer based on shared values but on immediate utility and revenue sharing. The state is hardening internally to project power externally.
 
-- **For Markets:** Efficiency is dead; resilience is king. Suplly chains will continue to fragment along with geopolitical lines and the premium on tangible assets - gold - oil - land will continue to rise and grown in volatility as the previous system continues to erode. 
+- **For Markets:** Efficiency is dead; resilience is king. Supply chains will continue to fragment along with geopolitical lines and the premium on tangible assets - gold - oil - land - will continue to rise and grow in volatility as the previous system continues to erode. 
 
 The risks for 2026 are not just cyclical economic downturns, but systemic ruptures: a nuclear accident in the Middle East, a miscalculation in the Taiwan Strait, or a disorderly default in the US bond market. In this environment, raw data and unsentimental analysis are the only hedges against chaos.
 
