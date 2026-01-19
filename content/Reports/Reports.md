@@ -26,9 +26,9 @@ title: Reports
 ## Weekly Perspectives 
 
 > [!info] Latest!
-> This weeks report: [[W02.2026]]
+> This weeks report: [[W03.2026]]
 >
-> Second week of the year. With red folder news releases on most days. More importantly, many global conflicts are escalating. From protests in Iran to disaccord within NATO over Greenland. 
+> Third week of the year. This is a **huge** week for the markets following the events of late this week and this weekend. The primary driver being NATO and US tension over the Trump administrations acquisition of Greenland. 
 >     
 
 ---
@@ -36,6 +36,7 @@ title: Reports
 
 #### Index:
 
+- [[W03.2026]]
 - [[W02.2026]]
 - [[W01.2026]]
 - [[JAN.2026]]
