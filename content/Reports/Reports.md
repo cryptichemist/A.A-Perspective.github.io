@@ -17,18 +17,16 @@ title: Reports
 ## Monthly Overview
 
 > [!info] Latest!
-> This months overview [[JAN.2026]] 
+> This months overview [[FEB.2026]] 
 > 
-> A Consensus of the coming events of the month and a detailed overview of the events of late 2025 to help you plan your trading schedule. 
-> The first month of the year. With many unravelling narratives to be aware of. 
-
+>I am excited to release this report sometime next week and have the chance to really nitpick some of the current events that are transpiring. so stay tuned. 
 ---
 ## Weekly Perspectives 
 
 > [!info] Latest!
-> This weeks report: [[W03.2026]]
+> This weeks report: [[W04.2026]]
 >
-> Third week of the year. This is a **huge** week for the markets following the events of late this week and this weekend. The primary driver being NATO and US tension over the Trump administrations acquisition of Greenland. 
+> This week wraps up January. The Markets will be processing the aftermath of the **World Economic Forum.**  
 >     
 
 ---
@@ -36,6 +34,7 @@ title: Reports
 
 #### Index:
 
+- [[W04.2026]]
 - [[W03.2026]]
 - [[W02.2026]]
 - [[W01.2026]]
